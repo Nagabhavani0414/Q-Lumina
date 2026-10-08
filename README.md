@@ -56,6 +56,16 @@ application and tested for cancer classification.
 A confusion matrix is included in this repository
 to show the model evaluation results.
 
+## 👥 Team Q-Lumina
+
+| Role | Name | Branch | Year |
+|------|------|--------|------|
+| Team Leader | Ch. Naga Bhavani | EEE | 3rd Year |
+| Team Member | M. Mohan Pushpa | EEE | 3rd Year |
+| Team Member | Ch. Sarala Devi | EEE | 3rd Year |
+| Team Member | O. Sri Anikitha | EEE | 3rd Year |
+| Team Member | G. Gayathri | EEE | 3rd Year |
+
 ### Repository Contents
 
 - `app.py` – Application interface
